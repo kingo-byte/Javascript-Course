@@ -1,0 +1,16 @@
+.first {
+  display: inline;
+  margin: 5px;
+}
+.second {
+  margin: 10px;
+  margin-left: 50px;
+}
+.numbers {
+  display: flex;
+  margin-left: 40px;
+}
+
+.numbers p {
+  margin: 10px;
+}

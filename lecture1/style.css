@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  background-image: url(./station.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+  image-rendering: optimizeQuality;
+  color: rgba(red, green, blue, alpha);
+}
+body p {
+  font-size: 1em;
+}
+p {
+  font-size: 2em;
+}
+button {
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  margin: 10px;
+  display: block;
+  position: relative;
+  left: 45.5vw;
+  cursor: pointer;
+}
